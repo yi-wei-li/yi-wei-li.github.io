@@ -10,7 +10,7 @@ export const profile = {
 	field: "Computer Science & Engineering",
 	institution: "UC San Diego",
 	institutionUrl: "https://ucsd.edu",
-	sourceUrl: "https://github.com/daidaibunny/daidaibunny.github.io",
+	sourceUrl: "https://github.com/yi-wei-li/yi-wei-li.github.io",
 	contactIntroduction: "For research, collaboration, or other questions, please reach me by email.",
 	introduction:
 		"I am a master's student in Computer Science and Engineering at UC San Diego. I received my B.Sc. (Honours) in Computer Science from the University of Nottingham in 2026.",

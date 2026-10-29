@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://daidaibunny.github.io/sitemap.xml
+Sitemap: https://yi-wei-li.github.io/sitemap.xml

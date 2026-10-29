@@ -7,6 +7,7 @@
 - Follow the supplied mature academic homepage references; no decorative hero or marketing copy.
 - Separate research, publications, projects, CV, and contact into pages with navigation submenus.
 - Use free, self-hosted fonts and GitHub Pages; no paid services or server runtime.
+- Publish to `yi-wei-li/yi-wei-li.github.io`; personal profile and project links remain `daidaibunny`.
 - Preserve the user's preferred existing `main` branch.
 - Keep biography and project claims grounded in supplied or verified sources.
 - Verify publication titles, authors, status, and links before adding citations.
