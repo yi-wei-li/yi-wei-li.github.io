@@ -12,10 +12,15 @@
 - [x] Commit, push, and verify the published website at https://daidaibunny.github.io/.
 - [x] Choose https://yi-wei-li.github.io/ and create the free `yi-wei-li` organization.
 - [x] Create the public website repository and update canonical, sitemap, and source URLs.
-- [ ] Deploy and verify https://yi-wei-li.github.io/; preserve the original website as a fallback.
+- [x] Deploy and verify https://yi-wei-li.github.io/; preserve the original website as a fallback.
 - [x] Add the supplied portrait, check desktop and mobile layouts, and publish.
 
 Validation: all six routes and public assets respond successfully; the custom missing-page
 response returns 404. Desktop, 390-pixel mobile navigation, keyboard focus, and navigation
 without JavaScript work. The CV exports to one A4 page. Formatting, type checks, build,
 dependency audit, and GitHub deployment passed.
+
+Migration validation: the new organization uses GitHub Free. All six pages, canonical URLs,
+source links, sitemap, fonts, and the supplied portrait passed live HTTPS checks; missing pages
+return the custom 404 response. Automatic checks and deployment passed. The local `origin`
+now targets `yi-wei-li/yi-wei-li.github.io`; `legacy` retains the original repository.
